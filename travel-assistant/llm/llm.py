@@ -9,6 +9,6 @@ from langchain_ollama import OllamaLLM
 #     return ChatGoogleGenerativeAI(model=model_name)
 
 def get_model() -> OllamaLLM:
-    model_name = os.getenv("LLM_MODEL_OLL", "llama3")
+    model_name = os.getenv("LLM_MODEL", "llama3")
     return OllamaLLM(model=model_name)
 
