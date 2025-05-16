@@ -1,0 +1,9 @@
+langchain
+langgraph>=0.0.32
+langchain_community
+langchain-ollama
+ollama
+python-dotenv
+httpx 
+pydantic
+
