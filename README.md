@@ -1,4 +1,4 @@
-# Travel Assistant LLM
+# Travel Assistant Agent
 
 A conversational AI travel planning assistant that helps users plan trips by providing recommendations for destinations, packing lists, attractions, and creating comprehensive travel plans.
 
