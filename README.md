@@ -29,7 +29,7 @@ The application is structured as a graph-based state machine with the following 
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone ...
    cd travel-assistant-llm
    ```
 
